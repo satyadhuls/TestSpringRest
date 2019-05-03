@@ -1,5 +1,5 @@
 package com.newexample.model;
-
+/*this new file are attributes of grocery item we buy*/
 public class Groceries {
 	public int itemNumber;
 	public String itemName;
